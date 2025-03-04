@@ -1,0 +1,13 @@
+{
+    "q1": "Evaluación de los métodos, rutinas de programación, procedimientos y medidas de seguridad y protección de los sistemas operativos,  programas paquetes, utilerías y demás software del sistema computacional.",
+    "q2": "Evaluación de los métodos, rutinas de programación, procedimientos y medidas de seguridad y protección de los componentes físicos (internos y externos) del sistema computacional, como son los periféricos, dispositivos asociados y demás componentes físicos.",
+    "q3": "Evaluación de las rutinas de programación, procedimientos y medidas de seguridad y protección de la información que se procesa en el sistema computacional.",
+    "q4": "Evaluación de los métodos, procedimientos y sistemas de administración y control para los accesos (lógicos y físicos) al procesador, terminales, programas e información del sistema computacional.",
+    "q5": "Evaluación de la administración y control de los niveles de acceso, privilegios, permisos y contraseñas para los administradores, operadores, usuarios, fabricantes, proveedores y desarrolladores ajenos al área de sistemas.",
+    "q6": "Evaluación de los métodos, procedimientos y sistemas de administración y control para los accesos remotos al sistema computacional, al procesador, a las terminales y a los programas e información del área de sistemas por medio de redes, Internet, intranet, fax-módem, redes virtuales y demás comunicación externa.",
+    "q7": "Evaluación de los métodos, procedimientos y sistemas de administración y control para la protección contra virus informáticos, hackers y personas ajenas al sistema computacional de la empresa.",
+    "q8": "Lista de verificación para la administración de los controles de seguridad del sistema computacional.",
+    "q9": "Evaluación de la existencia, difusión, acceso y uso de manuales e instructivos del usuario, de operación, técnicos, de procedimientos, de elaboración de proyectos informáticos, de programación y los demás manuales e instructivos para el manejo de los sistemas de la organización.",
+    "q10": "Evaluación de la difusión y uso de metodologías y estándares para el desarrollo de nuevos sistemas en la organización.",
+    "q11": "Evaluación de la existencia, difusión y uso de estándares para el uso y programación de sistemas operativos, programas y paqueterías de desarrollo y aplicación de la empresa."
+}

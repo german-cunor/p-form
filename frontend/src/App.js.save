@@ -1,0 +1,53 @@
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
+import './styles_form.css';
+//import { Container, Typography, RadioGroup, FormControlLabel, Radio, Button, Box } from '@mui/material';
+
+function App() {
+    const [questions, setQuestions] = useState([]);
+    const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+
+    useEffect(() => {
+        axios.get('http://localhost:8000/questions')
+            .then(response => setQuestions(response.data))
+            .catch(error => console.error(error));
+    }, []);
+
+    const handleNext = () => {
+        if (currentQuestionIndex < questions.length - 1) {
+            setCurrentQuestionIndex(currentQuestionIndex + 1);
+        }
+    };
+
+    const handlePrev = () => {
+        if (currentQuestionIndex > 0) {
+            setCurrentQuestionIndex(currentQuestionIndex - 1);
+        }
+    };
+
+/*    if (questions.length === 0) {
+        return <div>Loading questions...</div>;
+    }
+*/
+//    const currentQuestion = questions[currentQuestionIndex];
+
+    const currentQuestion = {
+        text: "How would you rate the service?",
+        choices: [
+            { id: 1, text: "Excelente" },
+            { id: 2, text: "Bueno" },
+            { id: 3, text: "Regular" },
+            { id: 4, text: "Minimo" },
+            { id: 5, text: "No cumple" }
+        ]
+    };
+
+    return (
+            );
+}
+
+export default App;
+    );
+}
+
+export default App;

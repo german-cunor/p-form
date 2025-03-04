@@ -1,30 +1,16 @@
-import React, { useEffect, useState } from "react";
-import axios from "axios";
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Start from './Start';
+import Form from './Form';
 
 function App() {
-    const [questions, setQuestions] = useState([]);
-
-    useEffect(() => {
-        axios.get("http://localhost:8000/questions")
-            .then(response => setQuestions(response.data))
-            .catch(error => console.error(error));
-    }, []);
-
     return (
-        <div>
-            <h1>Survey Form</h1>
-            {questions.map(q => (
-                <div key={q.id}>
-                    <p>{q.text}</p>
-                    {q.choices.map(c => (
-                        <label key={c.id}>
-                            <input type="radio" name={q.id} value={c.text} />
-                            {c.text}
-                        </label>
-                    ))}
-                </div>
-            ))}
-        </div>
+        <Router>
+                <Routes>
+                    <Route path="/" element={<Start />} />
+                    <Route path="/form" element={<Form />} />
+                </Routes>
+        </Router>
     );
 }
 

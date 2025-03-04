@@ -1,0 +1,5 @@
+{
+    "q1": "Repetidores. Sirven para amplificar o regenerar las señales, con lo cual pueden utilizarse cables más largos.",
+    "q2": "Puentes. Son los dispositivos para guardar y reenviar los datos en la red; operan en el nivel de enlace y pueden cambiar los campos de las tramas.",
+    "q3": "Enrutadores de protocolos múltiples. Son como los puentes que funcionan en el nivel de red y que permiten la conexión de redes con distintos protocolos."
+}

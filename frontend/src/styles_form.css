@@ -1,0 +1,104 @@
+.form {
+    background-image: url("b.jpg");
+    background-repeat: repeat;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+table {
+    color: #404040;
+    background-color: white;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+}
+
+td {
+    padding: 2%;
+    vertical-align: top;
+}
+
+.left {
+    width: 70%;
+    border-right: dashed 2px black;
+}
+
+.right {
+    width: 30%;
+}
+
+.radio-group {
+    border-bottom: solid 1px black;
+}
+
+.div-g {
+    display: flex;
+    width: 100%;
+    margin: 6%;
+}
+
+.section {
+    color: #646464;
+    border: solid 1px black;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.section:hover {
+    color: black;
+    background-color: #2064aa60;
+}
+
+.section-selected {
+    color: white;
+    border: solid 1px black;
+    background-color: #2464aa;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.buttonsContainer {
+    background-color: black;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    width: 70%;
+    color: white;
+    background-color: #2464aa;
+    padding: 5%;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    width: 72%;
+    background-color: #005099;
+}
+
+button:disabled {
+    background-color: #00206c;
+    color: #606060;
+    cursor: not-allowed;
+}
+
+input[type="radio"] {
+    accent-color: #007bff; /* Custom color for selected radio */
+}
+
+label {
+    cursor: pointer;
+}
+
+.rr {
+    color: #a0a0a0;
+}

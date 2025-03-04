@@ -1,0 +1,12 @@
+{
+    "q1": "Configuración, ubicación y adecuación de las áreas físicas del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas, en relación con el aire acondicionado, pisos falsos, iluminación, instalaciones y demás componentes físicos para el bienestar y comodidad de los usuarios de sistemas.",
+    "q2": "Configuración del sistema computacional, redes, procesadores, periféricos, componentes e instalaciones físicas internas y externas del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas computacionales.",
+    "q3": "Configuración y características físicas de locales, instalaciones, mobiliario y equipos.",
+    "q4": "Distribución de los equipos, componentes y configuración física del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas.",
+    "q5": "Instalaciones eléctricas (tipos de cableados y conexiones, tierra física, no-breaks, reguladores de corriente, etc.), de comunicación y de datos del área de sistemas y de las demás áreas de la empresa que cuenten con sistemas.",
+    "q6": "Medio ambiente físico del área de sistemas (sistemas de calefacción, polvo, ruido, estática, aire acondicionado, etc.) y los demás elementos ambientales que pueden influir en el desarrollo adecuado de la función informática en la empresa.",
+    "q7": "Sistemas de acceso, seguridad y protección físicos del área de sistemas, así como la seguridad de sus activos informáticos, personal y usuarios.",
+    "q8": "Distribución del mobiliario, quipo y sistemas.",
+    "q9": "Usuarios de los sistemas de red, PCs individuales, de correo electrónico, grupales y de cualquier otro sistema.",
+    "q10": "Componentes externos del área de sistemas y de las demás áreas de la empresa que cuenten con sistemas."
+}

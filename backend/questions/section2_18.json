@@ -1,0 +1,9 @@
+{
+    "q1": "Nivel físico. Para las relaciones de los voltajes, la duración de un bit, el establecimiento de una conexión, el número de polos de un enchufe y demás aspectos técnicos de este nivel.",
+    "q2": "Nivel de enlace. Para convertir el medio de transmisión crudo en uno que esté libre de errores de transmisión  cuanto al remitente de los datos de entrada, al procesamiento de los de acuse y manejo de las tramas perdidas, dañadas, o duplicadas y en cuanto a la regulación de la velocidad del tráfico.",
+    "q3": "Nivel de red. Para determinar el enrutamiento de los paquetes desde sus fuentes hasta sus destinos, manejando la congestión a la vez y a su corporación a la función de contabilidad.",
+    "q4": "Nivel de transporte. En el primer nivel de comunicación directa  de su par en el destino (los anteriores niveles son de computadora a computadora). Este tipo de nivel suministra varios tipos de servicios como abrir conexiones múltiples de red para proveer capacidad alta. Se puede utilizar el encabezamiento de transporte para distinguir entre los mensajes de conexiones múltiples que entran a una máquina y abastecer el control de flujo entre hosts.",
+    "q5": "Nivel de sesión. Parecido al nivel de transporte pero provee servicios adicionales ya que pueden manejar token (objetos abstractos y únicos) para controlar las acciones de los participantes, o puede hacer checkpoints (puntos de inspección) en la transferencia de datos.",
+    "q6": "Nivel de presentación. Provee funciones comunes a muchas aplicaciones, como traducciones entre juegos de caracteres, códigos de números, etc.",
+    "q7": "Nivel de aplicación. Define los protocolos usados por las aplicaciones individuales de la red. Entre estas aplicaciones tenemos el correo electrónico y telnet, entre otros."
+}

@@ -1,0 +1,6 @@
+{
+    "q1": "El funcionamiento adecuado de los protocolos de la red.",
+    "q2": "El manejo del tamaño de los paquetes que se manejan en la red, según su máximo.",
+    "q3": "El control de errores para la entrega confiable y en orden y sin orden de la información que se transmite en la red.",
+    "q4": "Control del flujo y de velocidad de transmisión de los datos de la red."
+}

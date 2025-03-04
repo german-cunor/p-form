@@ -1,0 +1,59 @@
+.form {
+    background-image: url("b.jpg");
+    background-repeat: repeat;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.disclaimer {
+    color: #404040;
+    background-color: white;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.buttonsContainer {
+    background-color: black;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    width: 40%;
+    color: white;
+    background-color: #2464aa;
+    padding: 2%;
+    margin: 2%;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input {
+    border-radius: 10px;
+    padding: 1%;
+    border: solid 2px #2464aa;
+}
+
+textarea {
+    width: 80%;
+    border-radius: 10px;
+    padding: 1%;
+    border: solid 2px #2464aa;
+    resize: vertical;
+}
+
+button:hover {
+    width: 42%;
+    background-color: #005099;
+}
+
+.rr {
+    color: #a0a0a0;
+}

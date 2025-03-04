@@ -1,0 +1,6 @@
+{
+    "q1": "Evaluar el cumplimiento de los objetivos, la conexión de las redes múltiples y la capacidad de mantener conexiones aun cuando una parte de la subred está perdida.",
+    "q2": "Evaluar la aplicación de red packetswitched, basada en un nivel de internet sin conexiones.",
+    "q3": "Evaluar la aplicación y funcionamiento de los niveles físicos y de enlace (nivel de host a red) y su definición (si la hay) en esta arquitectura.",
+    "q4": "Evaluar el funcionamiento del nivel de internet, en el que el host introduce paquetes en la red, los cuales viajan independientemente del destino, pero sin garantías de entrega ni de orden."
+}

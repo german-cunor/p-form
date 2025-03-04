@@ -1,0 +1,8 @@
+{
+    "q1": "Fabricante, tipo, versión del BIOS, configuración y componentes.",
+    "q2": "Arquitectura, componentes y características de la tarjeta madre.",
+    "q3": "Conjunto de chips.",
+    "q4": "Ranura de expansión para bus.",
+    "q5": "Capacidad máxima en RAM.",
+    "q6": "Conexiones periféricas."
+}

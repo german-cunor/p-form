@@ -1,0 +1,7 @@
+{
+    "q1": "Fabricante, marca, tipo, configuración y características.",
+    "q2": "Velocidad del procesamiento en MHz.",
+    "q3": "Máxima memoria en RAM del sistema.",
+    "q4": "Memoria caché y RAM externa.",
+    "q5": "Conjunto de chips (fabricante, modelo, capacidad y características)."
+}

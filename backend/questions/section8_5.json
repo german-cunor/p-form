@@ -1,0 +1,17 @@
+{
+    "q1": "Inventarios de los equipos de cómputo, contemplando las marcas, procesadores, tarjetas madre, velocidad, configuración, componentes, memorias, sistemas de almacenamiento, tarjetas adicionales, números de serie, responsables de su resguardo y todos los demás aspectos relacionados con estos equipos.",
+    "q2": "Inventario de los sistemas operativos, programas, paqueterías, utilerías y demás software institucional, incluyendo licencias, resguardas, originales, copias autorizadas y copias piratas.",
+    "q3": "Inventario del personal informático y usuarios del sistema, a fin de evaluar sus perfiles de puestos, conocimientos, características y preparación para el uso de los sistemas computacionales de la empresa.",
+    "q4": "Inventario de bienes muebles, inmuebles, materiales y consumibles del área de sistemas.",
+    "q5": "Inventario de los sistemas de redes, cuando el sistema este diseñado de esta manera.",
+    "q6": "Inventario e instalaciones físicas, protecciones, características y funcionalidad de las áreas de sistemas, contemplando su medio ambiente de trabajo, iluminación, aire acondicionado, ruidos, temperatura, estática y demás peculiaridades de su funcionamiento.",
+    "q7": "El diseño físico del área de sistemas y de las áreas de la empresa que cuenten con sistemas computacionales.",
+    "q8": "El análisis y aprobación de las propuestas para la adquisición del software, hardware, periféricos, equipos adicionales, bienes muebles, consumibles y materiales diversos que permiten el funcionamiento del sistema.",
+    "q9": "El medio ambiente de trabajo en el que se realiza la función informática de la empresa.",
+    "q10": "La gestión administrativa de la función informática de la empresa.",
+    "q11": "El diseño de proyectos de nuevos sistemas computacionales en el área de sistemas.",
+    "q12": "El diseño de formatos, formas y métodos para la recopilación de información que será procesada en el sistema.",
+    "q13": "La administración y control de los sistemas de seguridad y salvaguarda de los activos informáticos, la información, el personal y los usuarios del sistema.",
+    "q14": "La administración y control de accesos a las instalaciones del área de cómputo, a los sistemas, a la información y los bienes informáticos del área.",
+    "q15": "Todos aquellos aspectos especiales que intervienen de alguna manera en el aprovechamiento y explotación del sistema computacional y en la gestión administrativa del centro de cómputo. Con la condición indiscutible de no interferir directamente en el uso del equipo de cómputo."
+}

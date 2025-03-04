@@ -1,0 +1,6 @@
+{
+    "q1": "Repetidores para recibir y retransmitir datos, compensando las pérdidas  de señal.",
+    "q2": "Puentes y dispositivos para la capa de enlace OSI, para manejar datos de origen y destino.",
+    "q3": "Puentes/enrutadores y dispositivos de interconexión  de la red.",
+    "q4": "Enrutadores relacionados directamente con los protocolos de comunicación."
+}

@@ -1,0 +1,392 @@
+Los objetivos generales específicos de la actividad informática.|1_1
+Las estrategias para el funcionamiento de la actividad informática.|1_1
+Las funciones fundamentales para proporcionar el servicio informático a las áreas de la empresa.|1_1
+Las políticas, normas y lineamientos que regulen la actividad informática en la empresa y en el área de sistemas.|1_1
+Los procedimientos generales para proporcionar la actividad informática.|1_1
+Los niveles de autoridad y responsabilidad de los puestos del área de sistemas.|1_2
+La reestructuración y/o actualización de puestos.|1_2
+Los perfiles de puestos.|1_2
+Los manuales de organización, procedimientos, operación y demás documentación normativa del área de sistemas.|1_2
+El seguimiento de los manuales e instructivos del área de sistemas.|1_3
+Los métodos y procedimientos para la actividad informática en la empresa y en el área de sistemas.|1_3
+El ambiente laboral en el área de sistemas.|1_4
+El estilo de liderazgo y ejercicio de autoridad y responsabilidad en el área de sistemas.|1_4
+Las jerarquías de autoridad y responsabilidad en el área de sistemas.|1_4
+La coordinación de los recursos informáticos utilizados para la actividad informática en el área de sistemas en la empresa.|1_4
+Las relaciones de trabajo jefe-subordinado e iguales.|1_4
+El ejercicio y control de la toma de decisiones en el área de sistemas.|1_4
+Las relaciones de comunicación formal (comunicación escrita, verbal, correo electrónico u otras formas de comunicación) en el área de sistemas. |1_4
+La coordinación de las funciones, actividades, tareas y operaciones del personal informático del área de sistemas.|1_5
+Los planes y programas de capacitación, adiestramiento y promoción del personal y usuarios del área de sistemas.|1_5
+ La rotación y movilidad del personal del área de sistemas.|1_5
+La motivación para el personal y usuarios del área de sistemas.|1_5
+La evaluación del cumplimiento de las funciones y actividades del personal, del perfil de puestos y la asignación de actividades en el área de sistemas.|1_5
+La administración de los sistemas computacionales (hardware).|1_6
+La administración del sistema computacional (software)|1_6
+La administración de las instalaciones del sistema computacional.|1_6
+La administración del mobiliario y equipo asignados.|1_6
+La administración de los bienes materiales, consumibles y materiales de oficina.|1_6
+Los planes, programas y presupuestos que afectan al área de sistemas.|1_6
+La gestión financiera y contable de los recursos del área de sistemas.|1_6
+Los controles internos sobre la organización del área de sistemas.|1_7
+Los controles internos sobre el desarrollo de sistemas.|1_7
+Los controles internos sobre la operación del sistema.|1_7
+Los controles sobre los procedimientos de entrada de datos, procesamiento de información y emisión de resultados.|1_7
+La capacitación y el adiestramiento del personal y usuarios del área de sistemas.|1_8
+La documentación de sistemas.|1_8
+Las adquisiciones de sistemas computacionales, así como de sus materiales y demás componentes y consumibles.|1_8
+Los demás estándares que regulen el desempeño de la función informática en la empresa.|1_8
+Los manuales de usuarios.|1_9
+Los manuales técnicos del sistema.|1_9
+Los manuales de capacitación.|1_9
+Los manuales de operación.|1_9
+Las bitácoras de proyectos nuevos.|1_9
+La documentación de pruebas y simulaciones de sistemas.|1_9
+La actualización de manuales.|1_9
+La conectividad y las comunicaciones de la red de cómputo.|2_1
+Los servicios que proporciona la red de cómputo.|2_1
+Las configuraciones, topologías, tipos y cobertura de las redes de cómputo.|2_1
+Los protocolos de comunicación interna de la red.|2_1
+La administración de la red de cómputo.|2_1
+La seguridad de las redes de cómputo.|2_1
+La forma de compartir los recursos informáticos de la organización, especialmente la información y los activos.|2_2
+La cobertura de los servicios informáticos para la captura, el procesamiento y la emisión de información en la organización.|2_2
+La cobertura de los servicios de comunicación.|2_2
+La frecuencia con que los usuarios recurren a los recursos de la red.|2_2
+La confiabilidad y seguridad en el uso de la información institucional.|2_2
+La escalabilidad y migración de los recursos computacionales de la organización.|2_2
+La delimitación temporal, por el tiempo en que se instalará la red.|2_3
+La delimitación espacial, por las dimensiones físicas y lógicas del proyecto de red.|2_3
+La delimitación conceptual, por el análisis específico de las necesidades que se deben satisfacer con la red de cómputo.|2_3
+La delimitación tecnológica, por los requerimientos y conocimientos informáticos específicos en sistemas de red.|2_3
+Análisis de la tolerancia de las posibles fallas de la red. |2_4
+Análisis de la transparencia del trabajo para los usuarios de la red.|2_4
+Análisis de las redes de multicomputadoras.|2_5
+Evaluar el funcionamiento de la cobertura de punto a punto.|2_5
+Evaluar el funcionamiento de la tecnología que se usa con un solo cable entre las maquinas.|2_5
+Evaluar el funcionamiento de las aplicaciones, usos y explotación de las redes.|2_5
+Evaluar el uso adecuado de este tipo de red según sus características. |2_6
+Evaluar el uso adecuado y confiable del radio, microondas, satélites, infrarrojo o cualquier otro mecanismo de comunicación sin cable.|2_6
+Evaluar la posibilidad de combinar las redes inalámbricas con otras computadoras móviles y/u otras redes.|2_6
+Estudio de las necesidades de cobertura con la topología física de la red.|2_7
+EtherNet (norma IEEE 802.3).|2_8
+Token ring (norma IEEE 802-5).|2_8
+ARCnet (AttachedResoureComputer Network).|2_8
+IPX (InternetworkPacket Exchange).|2_8
+Análisis de la confiabilidad en el funcionamiento de los medio de transmisión y del medio físico que utiliza la red para la comunicación entre las computadoras que la integran.|2_9
+Cableado.|2_9
+Combinación de los medios de transmisión.|2_9
+La transmisión síncrona.|2_10
+La transmisión asíncrona.|2_10
+La transmisión digital.|2_10
+La transmisión en paralelo.|2_10
+La transmisión en serie.|2_10
+Los códigos de comunicación de datos.|2_10
+Repetidores. Sirven para amplificar o regenerar las señales, con lo cual pueden utilizarse cables más largos.|2_11
+Puentes. Son los dispositivos para guardar y reenviar los datos en la red; operan en el nivel de enlace y pueden cambiar los campos de las tramas.|2_11
+Enrutadores de protocolos múltiples. Son como los puentes que funcionan en el nivel de red y que permiten la conexión de redes con distintos protocolos.|2_11
+Simplex. Solamente en un sentido.|2_12
+Semidúplex. En ambos sentidos, pero uno a la vez.|2_12
+Dúplex total. En ambos sentidos a la vez.|2_12
+Topología de bus.|2_13
+Topología de estrella.|2_13
+Análisis de los métodos de acceso al medio y de la manera en que se conectan los dispositivos de la red para utilizar la transmisión por el medio físico.|2_13
+Evaluación del diseño e implementación de los componentes de la red de cómputo.|2_13
+Análisis del diseño e implementación del tipo de servidor principal establecido para la red.|2_13
+Características y componentes de la terminal o estación de trabajo.|2_14
+Numero de terminales o estaciones de trabajo.|2_14
+Aplicaciones de la terminal o estación de trabajo.|2_14
+Privilegios, información y uso de la terminal o estación de trabajo.|2_14
+Análisis del diseño e implementación de los nodos de la red.|2_15
+Análisis del uso de las tarjetas de la red.|2_15
+Adaptador EtherNet AE-2; es un adaptador inteligente con autoconfiguración de|2_15
+Selección de parámetros óptimos de funcionamiento.|2_15
+Adaptador EtherNet AE-2/t para conexiones de cables UTP y coaxial.|2_15
+Adaptador EtherNet AE-3 para soportar tres tipos de cable: UTP, coaxial grueso y coaxial delgado.|2_15
+Cable de par trenzado de amplio rango, sin blindaje y UTP.|2_15
+Cable de fibra óptica.|2_15
+Repetidores para recibir y retransmitir datos, compensando las pérdidas  de señal.|2_16
+Puentes y dispositivos para la capa de enlace OSI, para manejar datos de origen y destino.|2_16
+Puentes/enrutadores y dispositivos de interconexión  de la red.|2_16
+Enrutadores relacionados directamente con los protocolos de comunicación.|2_16
+El software para para controlas las redes y las estructuras para manejar la complejidad.|2_17
+La organización en la mayoría de las redes en una pila de niveles.|2_17
+Los niveles que ofrecen ciertos servicios a los niveles superiores  y la implantación de estos  servicios en el nivel inferior siguientes para implementar sus servicios.|2_17
+Nivel físico. Para las relaciones de los voltajes, la duración de un bit, el establecimiento de una conexión, el número de polos de un enchufe y demás aspectos técnicos de este nivel.|2_18
+Nivel de enlace. Para convertir el medio de transmisión crudo en uno que esté libre de errores de transmisión  cuanto al remitente de los datos de entrada, al procesamiento de los de acuse y manejo de las tramas perdidas, dañadas, o duplicadas y en cuanto a la regulación de la velocidad del tráfico.|2_18
+Nivel de red. Para determinar el enrutamiento de los paquetes desde sus fuentes hasta sus destinos, manejando la congestión a la vez y a su corporación a la función de contabilidad.|2_18
+Nivel de transporte. En el primer nivel de comunicación directa  de su par en el destino (los anteriores niveles son de computadora a computadora). Este tipo de nivel suministra varios tipos de servicios como abrir conexiones múltiples de red para proveer capacidad alta. Se puede utilizar el encabezamiento de transporte para distinguir entre los mensajes de conexiones múltiples que entran a una máquina y abastecer el control de flujo entre hosts.  |2_18
+Nivel de sesión. Parecido al nivel de transporte pero provee servicios adicionales ya que pueden manejar token (objetos abstractos y únicos) para controlar las acciones de los participantes, o puede hacer checkpoints (puntos de inspección) en la transferencia de datos.|2_18
+Nivel de presentación. Provee funciones comunes a muchas aplicaciones, como traducciones entre juegos de caracteres, códigos de números, etc.|2_18
+Nivel de aplicación. Define los protocolos usados por las aplicaciones individuales de la red. Entre estas aplicaciones tenemos el correo electrónico y telnet, entre otros.|2_18
+Capa física|2_19
+Capa de bloque|2_19
+Capa de paquetes|2_19
+Evaluar el cumplimiento de los objetivos, la conexión de las redes múltiples y la capacidad de mantener conexiones aun cuando una parte de la subred está perdida.|2_20
+Evaluar la aplicación de red packetswitched, basada en un nivel de internet sin conexiones.|2_20
+Evaluar la aplicación y funcionamiento de los niveles físicos y de enlace (nivel de host a red) y su definición (si la hay) en esta arquitectura.|2_20
+Evaluar el funcionamiento del nivel de internet, en el que el host introduce paquetes en la red, los cuales viajan independientemente del destino, pero sin garantías de entrega ni de orden.|2_20
+IP.|2_21
+ICPM(protocolo de mensajes de control de internet)|2_21
+TCP.|2_21
+UDP.|2_21
+FTP.|2_21
+SMTP.|2_21
+DNS(servicios de nombres de Dominio)|2_21
+Análisis del diseño arquitectónico  de las instalaciones de la red.|2_22
+Análisis de los elementos de enlace y cableado de la red.|2_22
+Análisis del manteamiento físico, correctivo y preventivo de los foros donde están las instalaciones de la red.|2_22
+Análisis de la instalación, el funcionamiento  y mantenimiento de las tarjetas que configuran la red|2_22
+Análisis de la instalación, el funcionamiento y mantenimientos de los servidores y terminales de la red de la empresa.|2_22
+Evaluación de los aspectos técnicos de la red de cómputo.|2_23
+Análisis de los estándares de redes locales, según la referencia y formatos que se utilicen para el funcionamiento de la red de la empresa.|2_23
+Modelo de referencia OSI.|2_23
+Norma IEEE 802.|2_23
+Análisis del acceso a la información institucional por áreas, privilegios y niveles de operación de los datos.|2_24
+Análisis de los sistemas y software|2_24
+Análisis del cambio periódico de niveles, privilegios y contraseñas de acceso al sistema.|2_25
+Análisis de los reportes de incidencias, contingencias y circunstancias que afectan el funcionamiento de la red de su información o software.|2_25
+Análisis de la atención y rapidez de las respuestas para satisfacer las necesidades informáticas de los usuarios al sistema.|2_25
+Análisis de la existencia, acatamiento y actualización de las políticas y reglamentos de uso de los sistemas computacionales de la red.|2_25
+El funcionamiento adecuado de los protocolos de la red.|2_26
+El manejo del tamaño de los paquetes que se manejan en la red, según su máximo.|2_26
+El control de errores para la entrega confiable y en orden y sin orden de la información que se transmite en la red.|2_26
+Control del flujo y de velocidad de transmisión de los datos de la red.|2_26
+Administración y control de la problemática de seguridad de la red, la información, los usuarios, los sistemas computacionales y de las instalaciones físicas.|2_27
+Evaluación de la seguridad y la protección de la red y de los activos informáticos de la empresa.|2_27
+Análisis de prevención de acceso múltiples, sin permisos sin dolosos y todas aquellas acciones para ingresar al sistema sin autorización correspondiente.|2_27
+Análisis del establecimiento de las barreras físicas y lógicas para proteger los accesos de intrusos piratas y hackers informáticos y cualquier otra intromisión, accidental o dolosa.|2_27
+Análisis de las medidas preventivas y correctivas para erradicar los virus informáticos de la red.|2_27
+Análisis de las medidas correctivas y preventivas para evitar la piratería de información, software, activos informáticos y consumibles del área de sistemas.|2_27
+Análisis de los sistemas operativos para el funcionamiento de la red.|2_28
+Análisis de los programas y paquetes de aplicación de la red.|2_28
+Análisis de la disponibilidad de licencias y permisos de instalación del software de la red.|2_28
+Análisis de la actualización tecnológica del software desarrollando de la empresa y del que se encuentra en el mercado.|2_28
+Análisis de las bitácoras y estadísticas de incidencias de la red.|2_28
+Análisis de las estadísticas de las incidencias, descomposturas, caídas del sistema, colisiones, perdidas de información y de más detalles que repercuten en la operación de la red.|2_28
+Análisis de actualización informática y los proveedores de sistema de la red.|2_28
+Inventarios de los componentes de las redes de cómputo de la empresa, contemplando servidores, terminales, cableado, componentes y demás bienes informáticos que integran la red.|2_29
+Inventario de los sistemas operativos, lenguajes, programas, paqueterías, utilerías y demás software institucional, así como las licencias, resguardos, originales, copias autorizadas y copias piratas.|2_29
+Inventario de los bienes muebles, inmuebles, materiales y consumibles del área de sistemas, a fin de valorar su protección y uso.|2_29
+Inventario de la seguridad y protección de la información y de los datos del sistema de red.|2_29
+Inventario de las instalaciones físicas de las redes, a fin de evaluar el acceso establecido para la protección de los bienes informáticos del área de sistemas.|2_29
+Fabricante, tipo, versión del BIOS, configuración y componentes.|2_30
+Arquitectura, componentes y características de la tarjeta madre.|2_30
+Conjunto de chips.|2_30
+Ranura de expansión para bus.|2_30
+Capacidad máxima en RAM.|2_30
+Conexiones periféricas.|2_30
+Fabricante, marca, tipo, configuración y características.|2_31
+Velocidad del procesamiento en MHz.|2_31
+Máxima memoria en RAM del sistema.|2_31
+Memoria caché y RAM externa.|2_31
+Conjunto de chips (fabricante, modelo, capacidad y características).|2_31
+Unidades de discos flexibles|2_32
+Discos duros (fabricante, capacidad características y capacidad)|2_32
+Fax-modem (marca. Modelo, velocidad en Kbps)|2_32
+Soporte para gráficos (fabricante, capacidad en RAM  e interfaz)|2_32
+Monitor (fabricante, modelo, tamaño y características)|2_32
+Teclado, ratón, joystick.|2_32
+Tarjeta aceleradora de gráficos|2_33
+Tarjeta para red.|2_33
+Tarjeta multimedia.|2_33
+Tarjeta para fax-modem.|2_33
+Tarjetas para video.|2_33
+Impresoras (fabricante, modelo, tamaño y características)|2_34
+Escáner y dictador de textos.|2_34
+Monitor, teclado, ratón y unidad de disco flexible.|2_35
+CD-ROM, CD-RW, DVD y disco duro.|2_35
+Conexiones de periféricos, de conectividad y de comunicación.|2_35
+Capacidad para el crecimiento del sistema|2_36
+Calidad de los componentes del sistema (fabricante, marca y características)|2_36
+Obsolescencia y durabilidad del equipo (sistemas y componentes)|2_36
+Garantía y soporte del fabricante|2_36
+Mantenimiento preventivo y correctivo  (frecuencia y resultados) |2_37
+Sistema reguladores de corrientes y no-breacks|2_37
+Instalación y conexiones eléctricas y de tierra.|2_37
+Protección del medio ambiente contra húmeda, polvo y estática.|2_37
+Fabricante, caracteristicas y operabilidad|3_1
+Plataforma y ambiente de aplicación|3_1
+Licencias y permiso|3_1
+Version actualizaciones, cambios e innovaciones|3_1
+Manual e instructivos técnicos de operación, de programación y demas documentación relacionada con el funcionamiento del lenguaje|3_1
+Facilidad para administración del sistema operativo|3_1
+Compatibilidad y escalabilidad con otros sistemas operativos|3_1
+Fabricantes, caracteristicas y operabilidad del lenguaje|3_2
+Plataforma y ambiente de desarrollo|3_2
+Version, actualización y utilidad para el sistema|3_2
+Facilidad de compilación y traducción al lenguaje de maquina|3_2
+Uso y generación de códigos y programas fuentes, seudocodigos, programas objetos y programas ejecutables|3_2
+Bibliotecas, herramientas y utilerías para programación |3_2
+Facilidad de programación y desarrollo|3_2
+Manuales e instructivos de instalación, operación, técnicos, de programación y demás documentación para el funcionamiento del programa.|3_2
+Administración del lenguaje.|3_2
+Sistemas para la seguridad y protección de los datos  del propio lenguaje.|3_2
+Facilidad de programación, compatibilidad, escalabilidad y desarrollo con otras plataformas y lenguajes.|3_2
+Requerimientos de capacitación y especialización|3_2
+Fabricantes, características y operabilidad.|3_3
+Plataforma y ambientes de aplicación.|3_3
+Versión, actualización y utilidad para el sistema.|3_3
+Licencias y permisos.|3_3
+Facilidad de traducción, comunicación y compilación con lenguaje de máquina. |3_3
+Bibliotecas, herramientas y utilerías para programación.|3_3
+Programas para bases de datos.|3_3
+Facilidad de programación (visual y de codificación).|3_3
+Uso y generación de programas fuente, programas objeto, programas gráficos y programas ejecutables. |3_3
+Compatibilidad y escalabilidad con otros lenguajes y programas.|3_3
+Sistemas para la seguridad y protección de los datos del propio programa.|3_3
+Administración del programa de aplicación.|3_3
+Manuales e instructivos de instalación, operación, técnicos, de programación y demás documentación para el funcionamiento y uso del programa.|3_3
+Requerimientos de capacitación y especialización.|3_3
+Facilidad de programación, compatibilidad, escalabilidad y desarrollo con otros sistemas, plataformas, lenguajes y programas.|3_3
+Fabricantes, características y operabilidad de programa.|3_4
+Ambiente de aplicación y uso.|3_4
+Versión, actualización y utilidad para el usuario.|3_4
+Licencias y permisos.|3_4
+Bibliotecas y utilerías de apoyo.|3_4
+Compatibilidad, exportabilidad y escalabilidad con otros programas y paqueterías de aplicación, de desarrollo o con el sistema operativo.|3_4
+Requerimientos de capacitación y especialización.|3_4
+Paqueterías y programas desarrollados internamente.|3_4
+Manuales e instructivos de instalación, operación, técnicos, de programación y demás documentación para el funcionamiento del programa.|3_4
+Ventajas y desventajas de los programas y paqueterías de aplicación.|3_4
+Paqueterías y programas integrados (Office y SmartSuite, por ejemplo).|3_5
+Programas y paqueterías para aplicaciones de escritorio (hojas de cálculo, bases de datos, procesadores de texto, agendas y presentaciones).|3_5
+Programas y paqueterías para gráficos, diseño, presentaciones, publicaciones, autoedición y multimedia.|3_5
+Programas y paqueterías de negocios y productividad.|3_5
+Programas y paqueterías para comunicación y red.|3_5
+Aplicaciones y utilerías para Internet.|3_5
+Manuales e instructivos de instalación, operación, técnicos, de programación y demás documentación para el funcionamiento y uso del programa.|3_5
+Otro software para aplicaciones y productividad. |3_5
+Utilerías para el archivo de información.|3_6
+Utilerías para la compresión de datos.|3_6
+Utilerías para la administración del sistema Windows.|3_6
+Utilerías y bibliotecas para el manejo de redes.|3_6
+Otras utilerías para el manejo del sistema.|3_6
+Evaluación de los componentes lógicos del sistema operativo, de desarrollo, de comunicaciones, bases de datos y de los programas de aplicación.|4_1
+Características lógicas del funcionamiento del hardware, software, periféricos, instalaciones y componentes asociados al sistema.|4_1
+Evaluación de los procesos lógicos para la captura y procesamiento de datos y elaboración de informes.|4_1
+Evaluación de la arquitectura y configuración lógicas (internas y externas) del sistema, así como de sus periféricos y archivos.|4_1
+Evaluación del funcionamientos de las capas OSI y de los protocolos de comunicación de datos del sistema.|4_1
+Evaluación de los componentes lógicos del sistema para las capas y protocolos de comunicación entre datos y archivos.|4_1
+Evaluación de las aplicaciones lógicas para el desarrollo y la programación de nuevos sistemas.|4_1
+Evaluación de las aplicaciones lógicas para los métodos de accesos, consulta y operación del sistema.|4_1
+Evaluación de los métodos y sistemas lógicos para la seguridad y protección de lenguajes, programas, paqueterías, utilerías y demás software institucional.|4_1
+Evaluación de las aplicaciones de los esquemas de seguridad lógica para protección de accesos, privilegios y manejo de las bases de datos y respaldos de información.|4_1
+Arquitectura interna y configuración física del sistema computacional, incluyendo equipos periféricos, componentes e instalaciones.|5_1
+Arquitectura externa del área de sistemas y distribución física del mobiliario, equipos e instalaciones.|5_1
+Componentes físicos del sistema, periféricos y equipos complementarios que garantizan su funcionamiento adecuado.|5_1
+Diseño físico de circuitos, compuertas y cableado interno y externo del sistema computacional.|5_1
+Instalaciones eléctricas y de comunicación de datos, asegurando su correcto funcionamiento.|5_1
+Métodos de acceso, seguridad y protección física del área de sistemas y sus componentes.|5_1
+Organización de la distribución física del mobiliario, equipo y sistemas.|5_1
+Teclado y ratón: ergonomía, utilidad y durabilidad.|5_2
+Monitores: especificaciones técnicas, compatibilidad y eficiencia.|5_2
+Impresoras: velocidad, manejo de papel y compatibilidad.|5_2
+Dispositivos de almacenamiento (CD-ROM, CR-RW, DVD): capacidad, velocidad y compatibilidad.|5_2
+Fax-módem: protocolos de comunicación y velocidad de conexión.|5_2
+Otros periféricos esenciales para el desempeño del sistema.|5_2
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Definición y aplicación de instrucciones de operación y procesamiento de datos.|6_1
+Diseño y gestión de archivos, bases de datos y medios de almacenamiento.|6_2
+Administración y control de archivos de información y programas institucionales.|6_2
+Planes de contingencia para la protección de la información.|6_2
+Estrategias de respaldo y seguridad de la información almacenada.|6_2
+Políticas y normativas para la custodia y protección de la información.|6_2
+Evaluación de los métodos, rutinas de programación, procedimientos y medidas de seguridad y protección de los sistemas operativos,  programas paquetes, utilerías y demás software del sistema computacional.|7_1
+Evaluación de los métodos, rutinas de programación, procedimientos y medidas de seguridad y protección de los componentes físicos (internos y externos) del sistema computacional, como son los periféricos, dispositivos asociados y demás componentes físicos.   |7_1
+Evaluación de las rutinas de programación, procedimientos y medidas de seguridad y protección de la información que se procesa en el sistema computacional.|7_1
+Evaluación de los métodos, procedimientos y sistemas de administración y control para los accesos (lógicos y físicos) al procesador, terminales, programas e información del sistema computacional.|7_1
+Evaluación de la administración y control de los niveles de acceso, privilegios, permisos y contraseñas para los administradores, operadores, usuarios, fabricantes, proveedores y desarrolladores ajenos al área de sistemas.|7_1
+Evaluación de los métodos, procedimientos y sistemas de administración y control para los accesos remotos al sistema computacional, al procesador, a las terminales y a los programas e información del área de sistemas por medio de redes, Internet, intranet, fax-módem, redes virtuales y demás comunicación externa.  |7_1
+Evaluación de los métodos, procedimientos y sistemas de administración y control para la protección contra virus informáticos, hackers y personas ajenas al sistema computacional de la empresa. |7_1
+Lista de verificación para la administración de los controles de seguridad del sistema computacional.|7_1
+Evaluación de la existencia, difusión, acceso y uso de manuales e instructivos del usuario, de operación, técnicos, de procedimientos, de elaboración de proyectos informáticos, de programación y los demás manuales e instructivos para el manejo de los sistemas de la organización.|7_1
+Evaluación de la difusión y uso de metodologías y estándares para el desarrollo de nuevos sistemas en la organización.|7_1
+Evaluación de la existencia, difusión y uso de estándares para el uso y programación de sistemas operativos, programas y paqueterías de desarrollo y aplicación de la empresa.|7_1
+Especificaciones de acceso y uso de los datos e información del sistema, así como de los procesos y operación del propio sistema.|8_1
+Estándares y métodos de entradas de datos y salidas de información.|8_1
+Estándares para la operación y manipulación de datos del sistema.|8_1
+Formas de procesamiento de información y procesos de datos en línea o lote.|8_1
+Medidas para evitar la piratería de software, así como la instalación de programas ilegales en el área de sistemas y en las demás áreas de la empresa que cuenten con sistemas.|8_1
+Administración y control de las licencias, resguardos y custodia del software institucional.|8_1
+Manuales e instructivos de operación, técnicos, de procedimientos, así como de las instalaciones y demás documentación relacionada con el funcionamiento del sistema.|8_1
+Metodologías y estándares para el desarrollo de nuevos sistemas.|8_1
+Estándares de programación y documentación de sistemas computacionales.|8_1
+Adquisición, desarrollo e instalación de nuevos sistemas computacionales.|8_1
+Mantenimiento preventivo y correctivo del sistema computacional, del hardware, software, de la información y demás componentes de los sistemas de la empresa.|8_1
+Configuración, ubicación y adecuación de las áreas físicas del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas, en relación con el aire acondicionado, pisos falsos, iluminación, instalaciones y demás componentes físicos para el bienestar y comodidad de los usuarios de sistemas.|8_2
+Configuración del sistema computacional, redes, procesadores, periféricos, componentes e instalaciones físicas internas y externas del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas computacionales.|8_2
+Configuración y características físicas de locales, instalaciones, mobiliario y equipos.|8_2
+Distribución de los equipos, componentes y configuración física del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas.|8_2
+Instalaciones eléctricas (tipos de cableados y conexiones, tierra física, no-breaks, reguladores de corriente, etc.), de comunicación y de datos del área de sistemas y de las demás áreas de la empresa que cuenten con sistemas.|8_2
+Medio ambiente físico del área de sistemas (sistemas de calefacción, polvo, ruido, estática, aire acondicionado, etc.) y los demás elementos ambientales que pueden influir en el desarrollo adecuado de la función informática en la empresa.|8_2
+Sistemas de acceso, seguridad y protección físicos del área de sistemas, así como la seguridad de sus activos informáticos, personal y usuarios.|8_2
+Distribución del mobiliario, quipo y sistemas.|8_2
+Usuarios de los sistemas de red, PCs individuales, de correo electrónico, grupales y de cualquier otro sistema.|8_2
+Componentes externos del área de sistemas y de las demás áreas de la empresa que cuenten con sistemas.|8_2
+Administración y control de la configuración de servidores, terminales y PCs de la empresa, en cuanto a procesadores, tarjetas madres, cableado interno y externo, componentes del sistema computacional y demás peculiaridades de los sistemas de la empresa.|8_3
+Administración y control de los sistemas operativos, desarrollo y aplicación para la programación y explotación del sistema.|8_3
+Administración y control de los sistemas de red (LAN, MAN o WAN), sistemas mayores, cliente/servidor, multiusuarios y de PC personal.|8_3
+Determinación y aplicación de normas y estándares para la instalación de sistemas computacionales en la empresa, relacionados con los procesadores, tarjetas madre, velocidades de procesos, memorias, medios de almacenamiento secundario y demás componentes de los sistemas de la empresa.|8_3
+Administración y control de las bibliotecas del sistema, sean maestras, fuente, de parámetros, de procedimientos, de carga, de objetos y demás, según los sistemas operativos.|8_3
+Administración y control de los archivos del sistema, de los usuarios y específicos de producción, pruebas de sistemas, operación de pruebas, nuevos proyectos y resguardos de la información institucional.|8_3
+Administración y control de las bases de datos del sistema y de los usuarios, en relación con su estructura, configuración, características y programas, resguardos, custodia interna y externa y demás formas de administración de las bases de datos.|8_3
+Administración y control de la arquitectura de comunicación, de los sistemas de telecomunicación, teleprocesamiento, transmisión, retransmisión, interconexión y de los sistemas utilizados para la transmisión vía módem, cableado o satelital.|8_3
+Prevención, control y erradicación de la contaminación informática, piratería y virus informáticos.|8_3
+Actualización permanente de acuerdo con los cambios computacionales y tecnológicos que impactan la función informática en la empresa.|8_3
+Administración y control de los estándares, velocidades, procesadores, memorias y demás características de los sistemas computacionales de la empresa.|8_3
+Administración estratégica de la función informática, visión, misión y objetivos del área de sistemas, así como de los planes y programas, normas, políticas, lineamientos y procedimientos para regular la actividad de sistemas en la empresa.|8_4
+Los planes, programas y presupuestos financieros que afectan la administración del centro de cómputo.|8_4
+La estructura de organización, puestos, funciones, niveles de autoridad y canales de comunicación del centro de cómputo, según su tamaño, características y sistemas de procesamiento.|8_4
+La selección, capacitación, formación, adiestramiento y contratación de funcionarios, personal y usuarios del área de sistemas.|8_4
+El establecimiento y uso de los sistemas y métodos de control para acceso a los sistemas e información institucionales.|8_4
+La aplicación de las técnicas y métodos de dirección, supervisión, toma de decisiones, coordinación y de motivación del personal y usuarios del centro de cómputo. |8_4
+Administración de proyectos de sistemas informáticos de la empresa, así como de decisiones, coordinación y de motivación del personal y usuarios del centro de cómputo.|8_4
+Existencia, difusión, actualización y uso de la documentación técnica y administrativa del área de sistemas, manuales de usuarios, de operación del sistema, manuales de organización, de procedimientos y de operación administrativa del área de sistemas.|8_4
+Existencia, difusión y actualización de resguardos de sistemas computacionales, programas y paquetes del sistema.|8_4
+Administración y control de los materiales y consumibles del área de sistemas.|8_4
+Evaluación de los perfiles de puestos del área de sistemas y cumplimiento de los requisitos del puesto.|8_4
+Análisis del entorno de los sistemas, en relación con la comunicación de las áreas de la empresa y la atención a usuarios.|8_4
+Cumplimiento de las funciones administrativas de los funcionarios del área de sistemas, en lo referente a la planeación, organización, dirección y control de las funciones informáticas de la empresa.|8_4
+Inventarios de los equipos de cómputo, contemplando las marcas, procesadores, tarjetas madre, velocidad, configuración, componentes, memorias, sistemas de almacenamiento, tarjetas adicionales, números de serie, responsables de su resguardo y todos los demás aspectos relacionados con estos equipos. |8_5
+Inventario de los sistemas operativos, programas, paqueterías, utilerías y demás software institucional, incluyendo licencias, resguardas, originales, copias autorizadas y copias piratas.|8_5
+Inventario del personal informático y usuarios del sistema, a fin de evaluar sus perfiles de puestos, conocimientos, características y preparación para el uso de los sistemas computacionales de la empresa. |8_5
+Inventario de bienes muebles, inmuebles, materiales y consumibles del área de sistemas.|8_5
+Inventario de los sistemas de redes, cuando el sistema este diseñado de esta manera.|8_5
+Inventario e instalaciones físicas, protecciones, características y funcionalidad de las áreas de sistemas, contemplando su medio ambiente de trabajo, iluminación, aire acondicionado, ruidos, temperatura, estática y demás peculiaridades de su funcionamiento.|8_5
+El diseño físico del área de sistemas y de las áreas de la empresa que cuenten con sistemas computacionales.|8_5
+El análisis y aprobación de las propuestas para la adquisición del software, hardware, periféricos, equipos adicionales, bienes muebles, consumibles y materiales diversos que permiten el funcionamiento del sistema.|8_5
+El medio ambiente de trabajo en el que se realiza la función informática de la empresa.|8_5
+La gestión administrativa de la función informática de la empresa.|8_5
+El diseño de proyectos de nuevos sistemas computacionales en el área de sistemas.|8_5
+El diseño de formatos, formas y métodos para la recopilación de información que será procesada en el sistema. |8_5
+La administración y control de los sistemas de seguridad y salvaguarda de los activos informáticos, la información, el personal y los usuarios del sistema.|8_5
+La administración y control de accesos a las instalaciones del área de cómputo, a los sistemas, a la información y los bienes informáticos del área.|8_5
+Todos aquellos aspectos especiales que intervienen de alguna manera en el aprovechamiento y explotación del sistema computacional y en la gestión administrativa del centro de cómputo. Con la condición indiscutible de no interferir directamente en el uso del equipo de cómputo.|8_5
+Planes y programas de prevención contra contingencias en el funcionamiento de los sistemas, en la información y datos de la empresa y en los demás bienes informáticos del centro de cómputo y de las demás áreas de la empresa que cuenten con sistemas.|8_6
+Identificación de acceso, almacenamiento y custodia de la información, sistemas operativos, archivos y programas institucionales.|8_6
+Evaluación de controles y sistemas de seguridad, protección y salvaguarda de los activos, del personal, instalaciones, información, mobiliario y equipo del área de sistemas.|8_6
+Planes contra contingencia para seguridad y protección de los programas, información, instalaciones, empleados y usuarios del sistema computacional.|8_6
+Sistemas de control de accesos lógicos al sistema y a las bases de datos.|8_6
+Sistemas de control de accesos físicos al centro de cómputo.|8_6
+Prevención y erradicación de virus informáticos.|8_6
+Sistemas de protección y de supresión de sistemas piratas y juegos en los sistemas computacionales de la empresa.|8_6
+Diseño de la estructura de organización del sistema, de las aras de trabajo y de las funciones y líneas de autoridad y responsabilidad de funcionarios, empleados y usuarios del área de sistemas.|8_6
+Administración centralizada de sistemas, archivos y procesamiento de información.|8_6
+Administración desconcentrada de sistemas, archivos y procesamiento de información.|8_6
+Administración y control de los recursos informáticos, personal, instalaciones, mobiliario y equipo del área de sistemas y de las demás áreas de la empresa que cuenten con sistemas. |8_6
+Estándares, normas y políticas para la evaluación y adquisición del hardware, software, periféricos, mobiliarios, equipos, instalaciones y artículos de consumo para el área de sistemas.|8_6
+Estándares para la selección, capacitación y desarrollo del personal y usuarios del centro de cómputo.|8_6
+Supervisión, coordinación y control de funciones y actividades de funcionarios, personal y usuarios del área de sistemas computacionales.|8_6
+Supervisión, coordinación y control de la operación de los sistemas, equipos, periféricos e información del área de sistemas.|8_6
+Evaluación de los aspectos técnicos del sistema, en cuanto a características, configuración, procesamiento de información, componentes y demás peculiaridades de la función informática en la empresa.|8_6
+Administración y control del sistema operativo, programas y paqueterías institucionales utilizados en el sistema computacional del procesador. |8_6
+Administración y control de los sistemas de red, cliente/servidor, multiusuarios y microcómputo de la empresa.|8_6
+Administración y control de sistemas de telecomunicación de datos y teleprocesamiento de información.|8_6
+Prevención y control de la contaminación informática.|8_6
+Actualización permanente de acuerdo con los cambios computacionales y tecnologías informáticas de vanguardia.|8_6
+Diseño e implantación de estándares de operación, adquisición, capacitación, desarrollo de sistemas, accesos al sistema, procesamiento de datos y demás estándares relacionados con la administración y control del centro de cómputo.|8_6
